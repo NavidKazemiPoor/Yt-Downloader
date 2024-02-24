@@ -5,7 +5,7 @@ This Python script enables you to download YouTube videos by selecting a specifi
 ## Installation
 
 1. Ensure you have Python installed on your system.
-2. Install the `pytube` library using pip:
+2. Install the `pytube` library using pip: `pip install pytube`
 
 
 ## Usage
